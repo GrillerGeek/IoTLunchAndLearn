@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "IoT Lunch and Learn",
+    "packageVersion": "1.0.1",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
