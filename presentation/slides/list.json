@@ -1,4 +1,41 @@
 [
     "iot-lunch-and-learn.html",
-    "topics-to-cover.html"
+    "the-knack.html",
+    [
+        "what-is-iot.html",
+        "the-internet-button.html"
+    ],
+    "what-do-you-need.html",
+    "tldr.html",
+    "boards.html",
+    [
+        "single-board-microcontrollers.html",
+        "arduino.html",
+        "particle.html"
+    ],
+    [
+        "single-board-computers.html",
+        "raspberry-pi.html",
+        "beaglebone.html"
+    ],
+    "parts.html",
+    "equipment.html",
+    [
+        "software-tools.html",
+        "languages.html",
+        "ides.html"
+    ],
+    "buying-supplies.html",
+    "project-ideas.html",
+    [
+        "hands-on.html",
+        "basic-structure.html",
+        "led-moment.html",
+        "internet-button-code.html",
+        "electronic-smoker.html",
+        "christmas-lights.html"
+    ],
+    "coming-soon.html",
+    "further-reading.html",
+    "questions.html"
 ]
